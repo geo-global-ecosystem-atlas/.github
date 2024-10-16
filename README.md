@@ -1,4 +1,4 @@
-![Screenshot 2024-10-16 @ 12:33](../assets/screenshots/Screenshot 2024-10-16 at 12.33.17 PM.png)
+![Screenshot 2024-10-16 @ 12:33]("/../assets/screenshots/Screenshot 2024-10-16 at 12.33.17 PM.png")
 
 
 # GEO Global Ecosystem Atlas - README
