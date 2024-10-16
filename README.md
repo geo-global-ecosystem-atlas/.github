@@ -1,4 +1,4 @@
-![](https://earthobservations.org/storage/app/resources/resize/400_0_0_0_auto/img_20e49191fd95e90e7a80d3f6e795558e.webp)
+![Screenshot 2024-10-16 @ 12:33](/../assets/screenshots/Screenshot 2024-10-16 at 12.33.17 PM.png)
 
 # GEO Global Ecosystem Atlas - README
 
