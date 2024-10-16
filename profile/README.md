@@ -1,10 +1,9 @@
-![Screenshot 2024-10-16 @ 12:33](/../assets/screenshots/Screenshot 2024-10-16 at 12.33.17 PM.png)
+![Screenshot 2024-10-16 @ 12:33](https://github.com/geo-global-ecosystem-atlas/.github/blob/assets/screenshots/Screenshot%202024-10-16%20at%2012.33.17%E2%80%AFPM.png)
 
-# GEO Global Ecosystem Atlas GitHub Organisation
+
+# GEO Global Ecosystem Atlas - README
 
 This organisation hosts the teams and repositories for building the GEO Ecosystem Atlas baseline extent product.
-
-View our repositories [here!](https://github.com/orgs/geo-global-ecosystem-atlas/repositories)
 
 ### Background
 
