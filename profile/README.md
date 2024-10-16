@@ -2,7 +2,7 @@
 
 # Overview
 
-The Global Ecosystems Atlas is a cross-sector collaborative initiative to map and monitor the world's ecosystems, providing dynamic visualisations of natural environments.
+Convened by the [Group on Earth Observations (GEO)](https://earthobservations.org/), the Global Ecosystems Atlas is a cross-sector collaborative initiative to map and monitor the world's ecosystems, providing dynamic visualisations of natural environments.
 
 The Atlas will empower decision-makers with insights for sustainable development and a deeper understanding of Earth's ecological diversity. It will provide everything you need to know about the distribution, change, condition and risks of ecosystems worldwide.
 
