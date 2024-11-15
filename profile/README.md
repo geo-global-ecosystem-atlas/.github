@@ -13,10 +13,10 @@ The Atlas will combine existing high-quality ecosystem maps and new ecosystem ma
 
 # About the Atlas GitHub pages
 
-On these pages you will find the repositories that manage all the phases of Atlas production, including: data cataloguing, correspondence analysis, map synthesis and app production:
+On these pages you will find the repositories that manage all the phases of Atlas production, including: data cataloguing, cross referencing to the Global Ecosystem Typology, map synthesis and app production:
 
-### 1. [Data cataloguing and correspondence analysis](https://github.com/geo-global-ecosystem-atlas/geo-data-catalogue)
-This repo contains code and other information used to manage the cataloguing pipeline. In here you'll find lists of all datasets assessed for inclusion in the Atlas, along with detailed information and metadata about all data sources actually included in the synthesised Atlas layers. This repository also contain correspondence tables which explain how source dataset map classes are assigned to Ecosystem Functional Groups within IUCN's Global Ecosystem Typology.
+### 1. [Data cataloguing and cross-referencing](https://github.com/geo-global-ecosystem-atlas/geo-data-catalogue)
+This repo contains code and other information used to manage the cataloguing pipeline. In here you'll find lists of all datasets assessed for inclusion in the Atlas, along with detailed information and metadata about all data sources actually included in the synthesised Atlas layers. This repository also contain cross reference tables which explain how source dataset map classes are assigned to the Ecosystem Functional Groups level of [IUCN's Global Ecosystem Typology](www.globalecosystems.org).
 
 ### 2. [Data processing and synthesis map production](https://github.com/geo-global-ecosystem-atlas/geo-extent-baseline)
 This repo contains code and other information used to process all input data sources and synthesise into the final 119 layers of the Global Ecosystems Atlas.
