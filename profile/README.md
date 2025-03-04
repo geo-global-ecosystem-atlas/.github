@@ -1,4 +1,4 @@
-![](https://github.com/geo-global-ecosystem-atlas/.github/blob/assets/screenshots/Screenshot%202024-10-18%20at%2012.22.43%E2%80%AFPM.png)
+![github.com](https://github.com/geo-global-ecosystem-atlas/.github/blob/assets/screenshots/Screenshot%202024-10-18%20at%2012.22.43%E2%80%AFPM.png)
 
 # Overview
 
