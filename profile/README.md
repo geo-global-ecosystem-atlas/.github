@@ -22,7 +22,7 @@ This repo contains code and other information used to manage the cataloguing pip
 This repo contains code and other information used to process all input data sources and synthesise into the final 119 layers of the Global Ecosystems Atlas.
 
 ### 3. [Platform and web app development](https://github.com/geo-global-ecosystem-atlas/global-ecosystem-atlas-platform)
-This repo contains code and processes for the development of the interactive web app, designed and managed by key project partners, [Vizzuality](https://github.com/Vizzuality/).
+This repo contains code and processes for the development of the interactive web app.
 
 ### 4. [Maldives accelerator project](https://github.com/allenai/maldives_ecosystem_mapping)
 As part of the [Global Ecosystems Atlas Maldives Accelerator project](https://earthobservations.org/solutions/incubators/global-ecosystems-atlas), GEO project-partners [Ai2](https://allenai.org/) have created the first version of an ecosystem category segmentation model that can be used to map terrestrial and near-land ecosystems in the Maldives. [This repository](https://github.com/allenai/maldives_ecosystem_mapping) contains the workflow and configuration files needed to reproduce the training of the ecosystem category segmentation model, and supports applying the model on new images.
