@@ -1,4 +1,4 @@
-[!](https://github.com/geo-global-ecosystem-atlas/.github/blob/assets/Designer.png)
+![](https://github.com/geo-global-ecosystem-atlas/.github/blob/assets/Designer.png)
 
 # Looking for the Global Ecosystems Atlas GitHub pages!? 
 
